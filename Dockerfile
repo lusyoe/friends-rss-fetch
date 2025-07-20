@@ -1,5 +1,4 @@
-#FROM registry.cn-heyuan.aliyuncs.com/lusyoe/python:3.11-slim
-FROM harbor.luhome.com/library/python:3.11-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
