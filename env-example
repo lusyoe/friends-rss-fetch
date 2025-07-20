@@ -1,0 +1,14 @@
+# XXL-Job 配置
+XXL_ADMIN_BASEURL=http://xxljob.luhome.com/xxl-job-admin/api/
+EXECUTOR_APP_NAME=python-rss-fetch-executor
+EXECUTOR_URL=http://192.168.10.1:9999
+EXECUTOR_LISTEN_HOST=0.0.0.0
+EXECUTOR_LISTEN_PORT=9999
+ACCESS_TOKEN=default_token
+
+# 数据库配置
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASSWORD=
+DB_DATABASE=blog
+DB_CHARSET=utf8mb4
