@@ -2,6 +2,12 @@
 
 一个基于 XXL-JOB 的 RSS 订阅内容定时抓取服务，用于自动获取友链博客的最新文章并存储到数据库中。
 
+# 相关项目
+- [Friends 前端展示](https://github.com/lusyoe/friends-frontend)
+- [Friends 后端接口](https://github.com/lusyoe/friends-api)
+
+[博客地址-青萍叙事](https://blog.lusyoe.com)
+
 ## 项目简介
 
 本项目是一个 Python 编写的 RSS 内容抓取服务，主要功能是：
